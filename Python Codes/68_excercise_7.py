@@ -1,0 +1,1 @@
+#  Clear the clutter inside a folder on your computer.

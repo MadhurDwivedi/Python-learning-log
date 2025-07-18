@@ -1,0 +1,1 @@
+# design a kbc type of quiz so that questions appears and then their options and when we select the right option then it gives answer if it is correct then prints ammount of prize otherwise it stops the levels.
